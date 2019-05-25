@@ -6,7 +6,7 @@ This is a Dockerfile to build XAMPP based on ubuntu:16.04, and you can also find
 
 First, using command `git clone` to clone this project.
 
-    $ git clone https://github.com/fuyuanli/Dockerfile-XAMPP.git
+    $ git clone https://github.com/moraesdelima/Dockerfile-XAMPP.git
 
 Second, buildng XAMPP image form Dockerfile, you can use tag `-t` to name this image.
 
